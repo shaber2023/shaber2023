@@ -14,9 +14,6 @@ Skills: NEXT / REACT /  REDUX / JS / TAILWIND / NODE / EXPRESS / MONGODB
 - 💬 Ask me about next redux  
 
 
- <h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
