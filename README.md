@@ -17,5 +17,5 @@ Skills: NEXT / REACT /  REDUX / JS / TAILWIND / NODE / EXPRESS / MONGODB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaber2023)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shaber2023)  
+
 
