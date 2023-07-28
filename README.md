@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is shaber ahmad
 #### i am mern stack developer
-![i am mern stack developer](https://scontent.fjsr16-1.fna.fbcdn.net/v/t1.6435-9/105705383_268317641117789_5770274544025026209_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFtitejdl0FnRhPAeJwvOYHJfIyLvozcP0l8jIu-jNw_Sjj3EzEyiBp5rQPyGNW8HDkj4QJpI9AUYm6Z2scDrAd&_nc_ohc=4FgHbVxTsskAX_i4X8L&_nc_ht=scontent.fjsr16-1.fna&oh=00_AfACJLO6ONzn1uWHywT5Ic54lI3I3TOsJxx8GwJgMrqe0A&oe=64EA93BA)
+![i am mern stack developer]([https://scontent.fjsr16-1.fna.fbcdn.net/v/t1.6435-9/105705383_268317641117789_5770274544025026209_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFtitejdl0FnRhPAeJwvOYHJfIyLvozcP0l8jIu-jNw_Sjj3EzEyiBp5rQPyGNW8HDkj4QJpI9AUYm6Z2scDrAd&_nc_ohc=4FgHbVxTsskAX_i4X8L&_nc_ht=scontent.fjsr16-1.fna&oh=00_AfACJLO6ONzn1uWHywT5Ic54lI3I3TOsJxx8GwJgMrqe0A&oe=64EA93BA](https://scontent.fjsr16-2.fna.fbcdn.net/v/t1.6435-9/94302386_225932418689645_3136840913800658944_n.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFc2kR02-i0wDB9gGPwrB-rt-HDNOlq8Jq34cM06WrwmjQU0pJBmM29blrPWoCU0gbPV5cUAT2h5X41k1NuM-Qs&_nc_ohc=gvRN1bcjQY8AX9_oawS&_nc_ht=scontent.fjsr16-2.fna&oh=00_AfBgyOz-DTjiTbO8PDia0W2Beu15Hsqde5c1in7lZgsapg&oe=64EAAB99))
 
 my name is shaber ahmad and i am a teacher of madrasah  and javascript developer
 
